@@ -11,11 +11,11 @@ This Python project is designed to perform geospatial analysis on satellite imag
 + calculate_nni(gdf): Calculates the Nearest Neighbor Index based on the processed GeoDataFrame.
   ### Usage:
   #### Start the Program
-    <python project.py>
+    'python project.py'
       
   #### Enter Target Coordinates:
 example:
 
-<your target coordinate: [[102.87718527596428, 33.530779786235996], [103.08160447863287, 33.530779786235996], [103.08160447863287, 33.66074993233015], [102.87718527596428, 33.66074993233015], [102.87718527596428, 33.530779786235996]]>
+'your target coordinate: [[102.87718527596428, 33.530779786235996], [103.08160447863287, 33.530779786235996], [103.08160447863287, 33.66074993233015], [102.87718527596428, 33.66074993233015], [102.87718527596428, 33.530779786235996]]'
     
 TODO
