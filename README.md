@@ -9,13 +9,12 @@ This Python project is designed to perform geospatial analysis on satellite imag
 + download_tif(item): Downloads the TIFF file for the retrieved satellite imagery.
 + tif_to_gdf(): Converts the specified class of land use in the TIFF file into a GeoDataFrame.
 + calculate_nni(gdf): Calculates the Nearest Neighbor Index based on the processed GeoDataFrame.
-  ### Usage:
-  #### Start the Program
-    `python project.py`
+### Usage:
+#### Start the Program
+`python project.py`
       
-  #### Enter Target Coordinates:
+#### Enter Target Coordinates:
 example:
-
 `your target coordinate: [[102.87718527596428, 33.530779786235996], [103.08160447863287, 33.530779786235996], [103.08160447863287, 33.66074993233015], [102.87718527596428, 33.66074993233015], [102.87718527596428, 33.530779786235996]]`
     
 TODO
